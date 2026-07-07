@@ -1,0 +1,14 @@
+{
+  "name": "top-project-weather",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "css-loader": "^7.1.4",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.108.3",
+    "webpack-cli": "^7.1.0"
+  }
+}
